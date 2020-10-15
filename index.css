@@ -1,0 +1,55 @@
+.{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.pink{
+color: pink;
+padding-left: 80px;
+font-size: 60px;
+line-height: 0px;
+letter-spacing: 6px;
+font-family: 'Commissioner', sans-serif;
+}
+.background{
+    background-color:pinkwhite;
+}
+.image{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    bottom: 370px;
+    left: 500px;
+}
+.headding{
+     padding-left: 80px;
+     padding-top: 20px;
+     font-size: small;
+     letter-spacing: 2px;
+     font-family: 'IBM Plex Sans', sans-serif;
+}
+.sideheadding{
+    padding-left: 80px;
+    letter-spacing: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    line-height: 0px;
+}
+.color{
+    padding-left: 80px;
+    color: lightpink;
+    font-size: 13px;
+}
+.search{
+    border-style: none;
+    padding: 10px 20px;
+    border-color: #ffc0cb;
+    font-size: 10px;
+    border-radius: 25px;
+    margin-left: 60px;
+}
+.simple{
+    font-size: 10px;
+    padding-left: 90px;
+    color: pink;
+}
